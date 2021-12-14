@@ -62,5 +62,10 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\roslyn\System.Buffers.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\roslyn\System.Memory.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
