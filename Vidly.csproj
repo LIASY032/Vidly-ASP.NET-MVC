@@ -146,6 +146,10 @@
     <Compile Include="Migrations\202112141246164_AddIsSubscribedToCustomer.designer.cs">
       <DependentUpon>202112141246164_AddIsSubscribedToCustomer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202112151046233_PopulateMembershipTypes.cs" />
+    <Compile Include="Migrations\202112151046233_PopulateMembershipTypes.designer.cs">
+      <DependentUpon>202112151046233_PopulateMembershipTypes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -248,6 +252,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202112141246164_AddIsSubscribedToCustomer.resx">
       <DependentUpon>202112141246164_AddIsSubscribedToCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112151046233_PopulateMembershipTypes.resx">
+      <DependentUpon>202112151046233_PopulateMembershipTypes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -69,3 +69,4 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.EntityFramewo
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
