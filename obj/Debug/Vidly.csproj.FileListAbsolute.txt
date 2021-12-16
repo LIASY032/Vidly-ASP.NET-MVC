@@ -70,3 +70,7 @@ C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.InitialModel.res
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddGenresData.resources
