@@ -74,3 +74,4 @@ C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembers
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddGenresData.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.RestrictedCustomerName.resources
