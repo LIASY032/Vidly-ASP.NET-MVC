@@ -75,3 +75,4 @@ C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCu
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddGenresData.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.RestrictedCustomerName.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.UpdateMovie.resources
