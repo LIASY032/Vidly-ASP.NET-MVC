@@ -76,3 +76,9 @@ C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resourc
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddGenresData.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.RestrictedCustomerName.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.UpdateMovie.resources
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.xml
+C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.WebHost.xml
