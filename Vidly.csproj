@@ -147,10 +147,12 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\API\CustomersController.cs" />
+    <Compile Include="Controllers\API\MoviesController.cs" />
     <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MoviesController.cs" />
     <Compile Include="DTO\CustomerDTO.cs" />
+    <Compile Include="DTO\MovieDTO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -189,6 +191,10 @@
     <Compile Include="Migrations\202112190151150_UpdateMovie.cs" />
     <Compile Include="Migrations\202112190151150_UpdateMovie.designer.cs">
       <DependentUpon>202112190151150_UpdateMovie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202112241044482_ModifyCustomersAndMoviesSpecification.cs" />
+    <Compile Include="Migrations\202112241044482_ModifyCustomersAndMoviesSpecification.designer.cs">
+      <DependentUpon>202112241044482_ModifyCustomersAndMoviesSpecification.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -321,6 +327,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202112190151150_UpdateMovie.resx">
       <DependentUpon>202112190151150_UpdateMovie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112241044482_ModifyCustomersAndMoviesSpecification.resx">
+      <DependentUpon>202112241044482_ModifyCustomersAndMoviesSpecification.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

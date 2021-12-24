@@ -1,39 +1,81 @@
-﻿using System;
+﻿using AutoMapper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
+using Vidly.DTO;
+using Vidly.Models;
 
-namespace Vidly.Controllers.API
+namespace Vidly.Controllers.Api
 {
     public class MoviesController : ApiController
     {
-        // GET api/<controller>
-        public IEnumerable<string> Get()
+        private ApplicationDbContext _context;
+
+        public MoviesController()
         {
-            return new string[] { "value1", "value2" };
+            _context = new ApplicationDbContext();
         }
 
-        // GET api/<controller>/5
-        public string Get(int id)
+        public IEnumerable<MovieDTO> GetMovies()
         {
-            return "value";
+            return _context.Movies.ToList().Select(Mapper.Map<Movie, MovieDTO>);
         }
 
-        // POST api/<controller>
-        public void Post([FromBody] string value)
+        public IHttpActionResult GetMovie(int id)
         {
+            var movie = _context.Movies.SingleOrDefault(c => c.Id == id);
+
+            if (movie == null)
+                return NotFound();
+
+            return Ok(Mapper.Map<Movie, MovieDTO>(movie));
         }
 
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody] string value)
+        [HttpPost]
+        public IHttpActionResult CreateMovie(MovieDTO movieDTO)
         {
+            if (!ModelState.IsValid)
+                return BadRequest();
+
+            var movie = Mapper.Map<MovieDTO, Movie>(movieDTO);
+            _context.Movies.Add(movie);
+            _context.SaveChanges();
+
+            movieDTO.Id = movie.Id;
+            return Created(new Uri(Request.RequestUri + "/" + movie.Id), movieDTO);
         }
 
-        // DELETE api/<controller>/5
-        public void Delete(int id)
+        [HttpPut]
+        public IHttpActionResult UpdateMovie(int id, MovieDTO movieDTO)
         {
+            if (!ModelState.IsValid)
+                return BadRequest();
+
+            var movieInDb = _context.Movies.SingleOrDefault(c => c.Id == id);
+
+            if (movieInDb == null)
+                return NotFound();
+
+            Mapper.Map(movieDTO, movieInDb);
+
+            _context.SaveChanges();
+
+            return Ok();
+        }
+
+        [HttpDelete]
+        public IHttpActionResult DeleteMovie(int id)
+        {
+            var movieInDb = _context.Movies.SingleOrDefault(c => c.Id == id);
+
+            if (movieInDb == null)
+                return NotFound();
+
+            _context.Movies.Remove(movieInDb);
+            _context.SaveChanges();
+
+            return Ok();
         }
     }
 }
