@@ -17,6 +17,8 @@ namespace Vidly.DTO
 
         [Required]
         public byte GenreId { get; set; }
+        public GenreDTO Genre { get; set; }
+
 
         public DateTime DateAdded { get; set; }
 
