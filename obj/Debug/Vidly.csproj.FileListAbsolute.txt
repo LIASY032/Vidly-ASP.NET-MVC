@@ -75,7 +75,6 @@ C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCu
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddGenresData.resources
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.RestrictedCustomerName.resources
-C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.UpdateMovie.resources
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Net.Http.Formatting.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.WebHost.dll
@@ -84,7 +83,6 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\AutoMapper.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\AutoMapper.xml
-C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.ModifyCustomersAndMoviesSpecification.resources
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
@@ -98,3 +96,4 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
