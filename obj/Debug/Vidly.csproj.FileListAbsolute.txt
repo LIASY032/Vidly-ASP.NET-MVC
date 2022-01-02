@@ -97,3 +97,4 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
