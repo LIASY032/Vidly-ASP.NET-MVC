@@ -118,3 +118,4 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\System.Memory.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Numerics.Vectors.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Text.Encodings.Web.xml
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
