@@ -119,3 +119,8 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\System.Numerics.Vectors.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Dharmesh\source\repos\Vidly\bin\System.Text.Encodings.Web.xml
 C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.Ado.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.Core.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.EF6.dll
+C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.Mvc5.dll
