@@ -124,3 +124,5 @@ C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.AspNet.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.Core.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.EF6.dll
 C:\Users\Dharmesh\source\repos\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\Dharmesh\source\repos\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
